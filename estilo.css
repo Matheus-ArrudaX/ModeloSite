@@ -1,0 +1,20 @@
+.inicio{
+    color: rgb(119, 0, 255);
+    background-color: rgb(209, 200, 200);
+    padding: 18px;
+}
+
+.introducao{
+    color: gray;
+}
+
+.direitos{
+    color: black;
+    text-align: center;
+}
+
+.contato{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
